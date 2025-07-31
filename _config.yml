@@ -1,31 +1,31 @@
 # Site
-repository: sproogen/resume-theme
+repository: thesunnykadam/thesunnykadam.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Sandeep Kumar Kadam
+title: Senior Data & Systems Engineer
+email: sunnysandeep14@gmail.com
+website: thesunnykadam.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: sunnysandeep161
+github_username:  thesunnykadam
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: thesunnykadam
+linkedin_username: thesunnykadam
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: thesunnykadam0
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Sandeep and I am a Consultant Tech Engineer in Systems and Databases with 7+ years of hands-on experience at Mphasis Corp., specializing in building and optimizing reliable, high-performance database systems across Oracle, MySQL, PostgreSQL, MongoDB, MS SQL and YugabyteDB. Skilled in performance tuning, replication design, and infrastructure automation in Linux and hybrid cloud environments (GCP, AWS). Adept in SQL scripting, observability tooling, and DevOps practices to drive data-driven application performance. Known for a growth mindset, strong collaboration with cross-functional teams, and delivering scalable solutions for system-driven data and analytics platforms.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -58,21 +58,21 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/thesunnykadam
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  thesunnykadam/modern-thesunnykadam.github.io
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            url: github.com/thesunnykadam/modern-thesunnykadam.github.io
+          # - title:  Github page for project (eg. thesunnykadam/modern-thesunnykadam.github.io)
           #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          #   url: Link to project (eg. thesunnykadam.github.io/modern-thesunnykadam.github.io)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
+  - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -110,14 +110,14 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/modern-thesunnykadam.github.io/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: thesunnykadam/thesunnykadam.github.io
 
 sass:
   sass_dir: _sass
